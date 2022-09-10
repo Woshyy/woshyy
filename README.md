@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Christopher</h1>
 <h3 align="center">A Computer Engineering student from Sweden</h3>
 
+- 🔭 I’m currently working on **a 🔥 Firefighter robot and a 🗺️ Mapping robot**
+
 - 🌱 I’m currently learning **Apache2, HTML, CSS, Javascript and autoCAD**
 
 - 📫 How to reach me **Christopher.waatz@gmail.com**
+
+- ⚡ Fun fact **I am almost using Arch btw 🙂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
