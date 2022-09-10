@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **Christopher.waatz@gmail.com**
 
-- ⚡ Fun fact **I am almost using Arch btw 🙂**
+- ⚡ Fun fact **almost using Arch btw 🙂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
